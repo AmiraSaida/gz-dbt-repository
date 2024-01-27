@@ -30,7 +30,12 @@ sources:
                   
       - name: ship
         identifier: raw_gz_ship
-        description: shipment table including all shipment details
+        description: shipments details
+    
+               
+               
+            
+                
        
               
                 
