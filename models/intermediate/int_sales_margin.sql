@@ -1,5 +1,5 @@
-select 
-products_id, 
+select
+products_id,
 date_date, 
 orders_id,
 revenue, 
